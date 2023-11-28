@@ -14,7 +14,7 @@ public class Pedido{
     private int idPedido;
     private String nombreCliente;
     private String direccionCliente;
-    private ArrayList<Producto> arrayProductos = new ArrayList<>();
+    public ArrayList<Producto> arrayProductos = new ArrayList<>();
 
     public Pedido(String nombreCliente, String direccionCliente){
         this.nombreCliente = nombreCliente;
@@ -42,7 +42,7 @@ public class Pedido{
         }
         return calorias;
     }
-    private int getPrecioNetoPedido(){
+    public int getPrecioNetoPedido(){
         int precioNeto = 0;
         for (Producto arrayProducto : arrayProductos) {
             precioNeto += arrayProducto.getPrecio();
