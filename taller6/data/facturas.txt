@@ -1,0 +1,17 @@
+********
+ *** FACTURA ***
+combo corral queso ***** $19350 ---- 950 calorias
+combo corral queso ***** $19350 ---- 950 calorias
+combo corral queso ***** $19350 ---- 950 calorias
+combo corral queso ***** $19350 ---- 950 calorias
+combo corral queso ***** $19350 ---- 950 calorias
+combo corral queso ***** $19350 ---- 950 calorias
+corral queso   ***** $16000 ---- 600 calorias
+Nombre: a
+Direccion: a
+ID model.Pedido: 6503
+Iva del pedido: $25099
+Calorias total del pedido: 6300
+Valor total del pedido: $157199
+
+********

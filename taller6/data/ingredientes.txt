@@ -1,0 +1,15 @@
+lechuga;1000;50
+tomate;1000;50
+cebolla;1000;50
+queso mozzarella;2500;120
+huevo;2500;120
+queso americano;2500;120
+tocineta express;2500;120
+papa callejera;2000;90
+pepinillos;2500;120
+cebolla grille;2500;120
+suero costeño;3000;150
+frijol refrito;4500;200
+queso fundido;4500;200
+tocineta picada;6000;250
+piña;2500;120
